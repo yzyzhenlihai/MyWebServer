@@ -1,0 +1,71 @@
+2024-11-18-22:42:53.585388[INFO]:========== Server init ==========
+2024-11-18-22:42:53.585410[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-18-22:42:53.585412[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-18-22:42:53.585414[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-18-22:42:56.171190[INFO]:Client[16] is connected   ip:127.0.0.1   port:56206
+2024-11-18-22:42:56.171403[INFO]:Client[17] is connected   ip:127.0.0.1   port:56208
+2024-11-18-22:42:56.416018[INFO]:Client[18] is connected   ip:127.0.0.1   port:56210
+2024-11-18-22:42:56.875172[INFO]:Client[20] is connected   ip:127.0.0.1   port:56212
+2024-11-18-22:42:56.875677[INFO]:Client[21] is connected   ip:127.0.0.1   port:56214
+2024-11-18-22:42:56.875968[INFO]:Client[22] is connected   ip:127.0.0.1   port:56216
+2024-11-18-22:43:24.612745[INFO]:Client[16] is connected   ip:127.0.0.1   port:56218
+2024-11-18-22:43:24.612818[INFO]:Client[17] is connected   ip:127.0.0.1   port:56220
+2024-11-18-22:43:24.854354[INFO]:Client[18] is connected   ip:127.0.0.1   port:56222
+2024-11-18-22:43:24.959470[INFO]:Client[20] is connected   ip:127.0.0.1   port:56224
+2024-11-18-22:43:24.960206[INFO]:Client[21] is connected   ip:127.0.0.1   port:56226
+2024-11-18-22:43:24.960486[INFO]:Client[22] is connected   ip:127.0.0.1   port:56228
+2024-11-18-23:08:46.896076[INFO]:========== Server init ==========
+2024-11-18-23:08:46.896100[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-18-23:08:46.896103[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-18-23:08:46.896104[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-18-23:08:49.727056[INFO]:Client[16] is connected   ip:127.0.0.1   port:56230    TotalCount:0
+2024-11-18-23:08:49.727813[INFO]:Client[17] is connected   ip:127.0.0.1   port:56232    TotalCount:1
+2024-11-18-23:08:49.986722[INFO]:Client[18] is connected   ip:127.0.0.1   port:56234    TotalCount:2
+2024-11-18-23:08:50.658981[INFO]:Client[20] is connected   ip:127.0.0.1   port:56236    TotalCount:3
+2024-11-18-23:08:50.659659[INFO]:Client[21] is connected   ip:127.0.0.1   port:56238    TotalCount:4
+2024-11-18-23:08:50.681742[INFO]:Client[22] is connected   ip:127.0.0.1   port:56240    TotalCount:5
+2024-11-18-23:09:05.216176[INFO]:Client[16] is connected   ip:127.0.0.1   port:56242    TotalCount:0
+2024-11-18-23:09:05.216289[INFO]:Client[17] is connected   ip:127.0.0.1   port:56244    TotalCount:1
+2024-11-18-23:09:05.217826[INFO]:username = ‡ ≈«Ÿ   password =    is requesting login
+2024-11-18-23:09:05.225459[INFO]:username = ‡ ≈«Ÿ   password =   login successfully!
+2024-11-18-23:09:05.468773[INFO]:Client[18] is connected   ip:127.0.0.1   port:56246    TotalCount:2
+2024-11-18-23:09:05.574091[INFO]:Client[20] is connected   ip:127.0.0.1   port:56248    TotalCount:3
+2024-11-18-23:09:05.575016[INFO]:Client[21] is connected   ip:127.0.0.1   port:56250    TotalCount:4
+2024-11-18-23:09:05.575770[INFO]:Client[22] is connected   ip:127.0.0.1   port:56252    TotalCount:5
+2024-11-18-23:17:54.872332[INFO]:========== Server init ==========
+2024-11-18-23:17:54.872364[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-18-23:17:54.872369[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-18-23:17:54.872372[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-18-23:17:57.721482[INFO]:Client[16] is connected   ip:127.0.0.1   port:56256    TotalCount:0
+2024-11-18-23:17:57.724611[INFO]:Client[17] is connected   ip:127.0.0.1   port:56258    TotalCount:1
+2024-11-18-23:17:57.978616[INFO]:Client[18] is connected   ip:127.0.0.1   port:56260    TotalCount:2
+2024-11-18-23:17:58.528496[INFO]:Client[20] is connected   ip:127.0.0.1   port:56262    TotalCount:3
+2024-11-18-23:17:58.528834[INFO]:Client[21] is connected   ip:127.0.0.1   port:56264    TotalCount:4
+2024-11-18-23:17:58.529103[INFO]:Client[22] is connected   ip:127.0.0.1   port:56266    TotalCount:5
+2024-11-18-23:18:09.44616[INFO]:Client[16] is connected   ip:127.0.0.1   port:56270    TotalCount:0
+2024-11-18-23:18:09.44705[INFO]:Client[17] is connected   ip:127.0.0.1   port:56268    TotalCount:1
+2024-11-18-23:18:09.46461[INFO]:username = name   password = passwd   is requesting login
+2024-11-18-23:18:09.47491[INFO]:username = ‡j‡ƒO   password =   login successfully!
+2024-11-18-23:18:09.298973[INFO]:Client[18] is connected   ip:127.0.0.1   port:56274    TotalCount:2
+2024-11-18-23:18:09.397033[INFO]:Client[20] is connected   ip:127.0.0.1   port:56276    TotalCount:3
+2024-11-18-23:18:09.397485[INFO]:Client[21] is connected   ip:127.0.0.1   port:56278    TotalCount:4
+2024-11-18-23:18:09.397527[INFO]:Client[22] is connected   ip:127.0.0.1   port:56280    TotalCount:5
+2024-11-18-23:22:34.590803[INFO]:========== Server init ==========
+2024-11-18-23:22:34.590833[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-18-23:22:34.590837[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-18-23:22:34.590839[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-18-23:22:37.954931[INFO]:Client[16] is connected   ip:127.0.0.1   port:56282    TotalCount:0
+2024-11-18-23:22:37.955013[INFO]:Client[17] is connected   ip:127.0.0.1   port:56284    TotalCount:1
+2024-11-18-23:22:38.217585[INFO]:Client[18] is connected   ip:127.0.0.1   port:56286    TotalCount:2
+2024-11-18-23:22:38.870445[INFO]:Client[20] is connected   ip:127.0.0.1   port:56288    TotalCount:3
+2024-11-18-23:22:38.870689[INFO]:Client[21] is connected   ip:127.0.0.1   port:56290    TotalCount:4
+2024-11-18-23:22:38.871130[INFO]:Client[22] is connected   ip:127.0.0.1   port:56292    TotalCount:5
+2024-11-18-23:22:46.377837[INFO]:Client[16] is connected   ip:127.0.0.1   port:56294    TotalCount:0
+2024-11-18-23:22:46.377956[INFO]:Client[17] is connected   ip:127.0.0.1   port:56296    TotalCount:1
+2024-11-18-23:22:46.381027[INFO]:username = yuzy   password = 666   register successfully!
+2024-11-18-23:22:46.633417[INFO]:Client[18] is connected   ip:127.0.0.1   port:56298    TotalCount:2
+2024-11-18-23:22:46.731111[INFO]:Client[20] is connected   ip:127.0.0.1   port:56300    TotalCount:3
+2024-11-18-23:22:46.735635[INFO]:Client[21] is connected   ip:127.0.0.1   port:56302    TotalCount:4
+2024-11-18-23:22:46.736176[INFO]:Client[22] is connected   ip:127.0.0.1   port:56304    TotalCount:5
+2024-11-18-23:22:53.5088[INFO]:username = yuzy   password = 666   is requesting login
+2024-11-18-23:23:21.390458[INFO]:username = yuzy   password = 666   is requesting login

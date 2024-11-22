@@ -1,0 +1,37 @@
+2024-11-17-22:22:30.224039[INFO]:Init Socket successful!!
+2024-11-17-22:33:16.922059[INFO]:========== Server init ==========
+2024-11-17-22:33:16.922101[INFO]:Listen Mode: LT, OpenConn Mode: LT
+2024-11-17-22:33:16.922204[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-17-22:33:16.922379[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-17-22:36:14.954707[INFO]:========== Server init ==========
+2024-11-17-22:36:14.954734[INFO]:Listen Mode: ET, OpenConn Mode: LT
+2024-11-17-22:36:14.954737[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-17-22:36:14.954739[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-17-22:38:58.183859[INFO]:========== Server init ==========
+2024-11-17-22:38:58.183887[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-17-22:38:58.183891[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-17-22:38:58.183893[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-17-22:39:13.585424[INFO]:Client[16] is connected   ip:127.0.0.1   port:42404
+2024-11-17-22:39:13.585465[INFO]:Client[17] is connected   ip:127.0.0.1   port:42402
+2024-11-17-22:39:13.842749[INFO]:Client[18] is connected   ip:127.0.0.1   port:42406
+2024-11-17-22:39:14.265885[INFO]:Client[21] is connected   ip:127.0.0.1   port:42408
+2024-11-17-22:39:14.269694[INFO]:Client[22] is connected   ip:127.0.0.1   port:42410
+2024-11-17-22:39:14.278586[INFO]:Client[23] is connected   ip:127.0.0.1   port:42412
+2024-11-17-22:39:18.118126[INFO]:Client[16] is connected   ip:127.0.0.1   port:42414
+2024-11-17-22:39:18.188018[INFO]:Client[17] is connected   ip:127.0.0.1   port:42416
+2024-11-17-22:39:18.361853[INFO]:Client[18] is connected   ip:127.0.0.1   port:42418
+2024-11-17-22:39:18.456469[INFO]:Client[21] is connected   ip:127.0.0.1   port:42420
+2024-11-17-22:39:18.457029[INFO]:Client[22] is connected   ip:127.0.0.1   port:42422
+2024-11-17-22:39:18.457460[INFO]:Client[23] is connected   ip:127.0.0.1   port:42424
+2024-11-17-22:39:26.909277[INFO]:Client[16] is connected   ip:127.0.0.1   port:42426
+2024-11-17-22:39:26.910089[INFO]:Client[17] is connected   ip:127.0.0.1   port:42428
+2024-11-17-22:39:27.170649[INFO]:Client[18] is connected   ip:127.0.0.1   port:42430
+2024-11-17-22:39:27.596575[INFO]:Client[21] is connected   ip:127.0.0.1   port:42434
+2024-11-17-22:39:27.597197[INFO]:Client[22] is connected   ip:127.0.0.1   port:42432
+2024-11-17-22:39:27.599244[INFO]:Client[23] is connected   ip:127.0.0.1   port:42436
+2024-11-17-22:39:44.176938[INFO]:Client[16] is connected   ip:127.0.0.1   port:42438
+2024-11-17-22:39:44.177384[INFO]:Client[17] is connected   ip:127.0.0.1   port:42440
+2024-11-17-22:39:44.440305[INFO]:Client[18] is connected   ip:127.0.0.1   port:42442
+2024-11-17-22:39:45.110068[INFO]:Client[21] is connected   ip:127.0.0.1   port:42444
+2024-11-17-22:39:45.115415[INFO]:Client[22] is connected   ip:127.0.0.1   port:42446
+2024-11-17-22:39:45.118943[INFO]:Client[23] is connected   ip:127.0.0.1   port:42448

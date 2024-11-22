@@ -1,0 +1,110 @@
+2024-11-19-14:50:36.2631[INFO]:========== Server init ==========
+2024-11-19-14:50:36.2658[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-19-14:50:36.2661[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-19-14:50:36.2735[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-19-14:50:41.307438[INFO]:Client[16] is connected   ip:127.0.0.1   port:47400    TotalCount:0
+2024-11-19-14:50:41.307468[INFO]:Client[17] is connected   ip:127.0.0.1   port:47402    TotalCount:1
+2024-11-19-14:50:41.564649[INFO]:Client[18] is connected   ip:127.0.0.1   port:47404    TotalCount:2
+2024-11-19-14:50:41.629356[INFO]:Client[21] is connected   ip:127.0.0.1   port:47408    TotalCount:3
+2024-11-19-14:50:41.629415[INFO]:Client[22] is connected   ip:127.0.0.1   port:47406    TotalCount:4
+2024-11-19-14:50:41.629422[INFO]:Client[23] is connected   ip:127.0.0.1   port:47410    TotalCount:5
+2024-11-19-14:51:05.770937[INFO]:Client[23] is connected   ip:127.0.0.1   port:47412    TotalCount:5
+2024-11-19-14:51:17.7278[INFO]:username = name    password = passwd   is requesting login
+2024-11-19-14:53:25.170759[INFO]:Client[16] is connected   ip:127.0.0.1   port:47414    TotalCount:5
+2024-11-19-14:53:31.297912[INFO]:username = name   password = passwd   is requesting login
+2024-11-19-14:53:31.298542[INFO]:username = ‡õÖ9   password =   login successfully!
+2024-11-19-14:56:09.865110[INFO]:username = yuzy   password = 666   register successfully!
+2024-11-19-15:42:37.315711[ERROR]========== Server init error!==========
+2024-11-19-15:42:47.3975[ERROR]========== Server init error!==========
+2024-11-19-15:43:23.208053[ERROR]========== Server init error!==========
+2024-11-19-16:13:52.665347[ERROR]========== Server init error!==========
+2024-11-19-16:14:17.494763[ERROR]========== Server init error!==========
+2024-11-19-16:42:16.499406[ERROR]========== Server init error!==========
+2024-11-19-16:44:03.813013[ERROR]========== Server init error!==========
+2024-11-19-16:47:58.852116[ERROR]========== Server init error!==========
+2024-11-19-16:48:27.507624[ERROR]========== Server init error!==========
+2024-11-19-16:49:13.42424[ERROR]========== Server init error!==========
+2024-11-19-16:51:55.94625[ERROR]========== Server init error!==========
+2024-11-19-16:57:11.795153[ERROR]========== Server init error!==========
+2024-11-19-17:01:16.69103[ERROR]========== Server init error!==========
+2024-11-19-17:03:48.501477[INFO]:========== Server init ==========
+2024-11-19-17:03:48.501502[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-19-17:03:48.501556[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-19-17:03:48.501559[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-19-17:03:56.817995[INFO]:Client[16] is connected   ip:127.0.0.1   port:53120    TotalCount:0
+2024-11-19-17:03:56.818090[INFO]:Client[17] is connected   ip:127.0.0.1   port:53122    TotalCount:1
+2024-11-19-17:03:56.818062[INFO]:Client[16] is connected   ip:127.0.0.1   port:47490    TotalCount:0
+2024-11-19-17:03:57.61607[INFO]:Client[18] is connected   ip:127.0.0.1   port:53126    TotalCount:2
+2024-11-19-17:03:57.151075[INFO]:Client[21] is connected   ip:127.0.0.1   port:53130    TotalCount:3
+2024-11-19-17:03:57.151138[INFO]:Client[23] is connected   ip:127.0.0.1   port:53128    TotalCount:4
+2024-11-19-17:03:57.151270[INFO]:Client[24] is connected   ip:127.0.0.1   port:53132    TotalCount:5
+2024-11-19-17:04:13.511711[INFO]:Client[16] is connected   ip:127.0.0.1   port:53134    TotalCount:1
+2024-11-19-17:04:13.515055[INFO]:username = name   password = passwd   is requesting login
+2024-11-19-17:04:13.515840[INFO]:username = "ê»/·"   password = "∞»/·"  login successfully!
+2024-11-19-17:04:13.851607[INFO]:Client[18] is connected   ip:127.0.0.1   port:53136    TotalCount:2
+2024-11-19-17:04:13.851650[INFO]:Client[21] is connected   ip:127.0.0.1   port:53138    TotalCount:3
+2024-11-19-17:04:13.851784[INFO]:Client[23] is connected   ip:127.0.0.1   port:53140    TotalCount:4
+2024-11-19-17:04:13.851793[INFO]:Client[24] is connected   ip:127.0.0.1   port:53142    TotalCount:5
+2024-11-19-17:04:20.449245[INFO]:Client[16] is connected   ip:127.0.0.1   port:53144    TotalCount:1
+2024-11-19-17:04:20.453728[DEBUG]:register user's sql is "insert into user(username,password) values('yuzy','666')"
+2024-11-19-17:04:20.454094[INFO]:username = "yuzy"   password = "666"   register successfully!
+2024-11-19-17:04:20.795654[INFO]:Client[18] is connected   ip:127.0.0.1   port:53148    TotalCount:2
+2024-11-19-17:04:20.796077[INFO]:Client[21] is connected   ip:127.0.0.1   port:53146    TotalCount:3
+2024-11-19-17:04:20.796088[INFO]:Client[23] is connected   ip:127.0.0.1   port:53150    TotalCount:4
+2024-11-19-17:04:20.796105[INFO]:Client[24] is connected   ip:127.0.0.1   port:53152    TotalCount:5
+2024-11-19-17:24:43.787427[INFO]:========== Server init ==========
+2024-11-19-17:24:43.787457[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-19-17:24:43.787460[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-19-17:24:43.787462[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-19-17:24:46.174109[INFO]:Client[16] is connected   ip:127.0.0.1   port:53158    TotalCount:0
+2024-11-19-17:24:46.174188[INFO]:Client[17] is connected   ip:127.0.0.1   port:53160    TotalCount:1
+2024-11-19-17:24:46.412487[INFO]:Client[18] is connected   ip:127.0.0.1   port:53162    TotalCount:2
+2024-11-19-17:24:46.504719[INFO]:Client[21] is connected   ip:127.0.0.1   port:53164    TotalCount:3
+2024-11-19-17:24:46.505003[INFO]:Client[23] is connected   ip:127.0.0.1   port:53166    TotalCount:4
+2024-11-19-17:24:46.505038[INFO]:Client[24] is connected   ip:127.0.0.1   port:53168    TotalCount:5
+2024-11-19-17:24:49.355160[INFO]:Client[16] is connected   ip:127.0.0.1   port:53170    TotalCount:0
+2024-11-19-17:24:49.467249[INFO]:Client[17] is connected   ip:127.0.0.1   port:53172    TotalCount:1
+2024-11-19-17:24:49.615706[INFO]:Client[18] is connected   ip:127.0.0.1   port:53174    TotalCount:2
+2024-11-19-17:24:49.690514[INFO]:Client[21] is connected   ip:127.0.0.1   port:53176    TotalCount:3
+2024-11-19-17:24:49.694949[INFO]:Client[23] is connected   ip:127.0.0.1   port:53178    TotalCount:4
+2024-11-19-17:24:49.698122[INFO]:Client[24] is connected   ip:127.0.0.1   port:53180    TotalCount:5
+2024-11-19-17:24:53.962107[INFO]:username = name   password = passwd   is requesting login
+2024-11-19-17:24:53.962582[INFO]:username = "ê®√“"   password = "∞®√“"  login successfully!
+2024-11-19-17:25:00.479635[INFO]:Client[16] is connected   ip:127.0.0.1   port:53182    TotalCount:0
+2024-11-19-17:25:00.479725[INFO]:Client[17] is connected   ip:127.0.0.1   port:53184    TotalCount:1
+2024-11-19-17:25:00.482314[DEBUG]:register user's sql is "insert into user(username,password) values('yuzy','666')"
+2024-11-19-17:25:00.482615[INFO]:username = "yuzy"   password = "666"   register successfully!
+2024-11-19-17:25:00.735988[INFO]:Client[18] is connected   ip:127.0.0.1   port:53186    TotalCount:2
+2024-11-19-17:25:00.815977[INFO]:Client[21] is connected   ip:127.0.0.1   port:53188    TotalCount:3
+2024-11-19-17:25:00.816138[INFO]:Client[23] is connected   ip:127.0.0.1   port:53190    TotalCount:4
+2024-11-19-17:25:00.816850[INFO]:Client[24] is connected   ip:127.0.0.1   port:53192    TotalCount:5
+2024-11-19-20:07:56.62919[INFO]:========== Server init ==========
+2024-11-19-20:07:56.62941[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-19-20:07:56.62944[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-19-20:07:56.62993[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-19-20:07:59.144631[INFO]:Client[16] is connected   ip:127.0.0.1   port:53228    TotalCount:0
+2024-11-19-20:07:59.144952[INFO]:Client[17] is connected   ip:127.0.0.1   port:53230    TotalCount:1
+2024-11-19-20:07:59.410823[INFO]:Client[18] is connected   ip:127.0.0.1   port:53232    TotalCount:2
+2024-11-19-20:07:59.477655[INFO]:Client[21] is connected   ip:127.0.0.1   port:53234    TotalCount:3
+2024-11-19-20:07:59.482420[INFO]:Client[23] is connected   ip:127.0.0.1   port:53236    TotalCount:4
+2024-11-19-20:07:59.482858[INFO]:Client[24] is connected   ip:127.0.0.1   port:53238    TotalCount:5
+2024-11-19-20:08:07.301554[INFO]:Client[16] is connected   ip:127.0.0.1   port:53240    TotalCount:0
+2024-11-19-20:08:07.301628[INFO]:Client[17] is connected   ip:127.0.0.1   port:53242    TotalCount:1
+2024-11-19-20:08:07.304935[DEBUG]:register user's sql is "insert into user(username,password) values('yuzy','666')"
+2024-11-19-20:08:07.305310[INFO]:username = "yuzy"   password = "666"   register successfully!
+2024-11-19-20:08:07.565513[INFO]:Client[18] is connected   ip:127.0.0.1   port:53244    TotalCount:2
+2024-11-19-20:08:07.645889[INFO]:Client[21] is connected   ip:127.0.0.1   port:53246    TotalCount:3
+2024-11-19-20:08:07.646056[INFO]:Client[23] is connected   ip:127.0.0.1   port:53248    TotalCount:4
+2024-11-19-20:08:07.646329[INFO]:Client[24] is connected   ip:127.0.0.1   port:53250    TotalCount:5
+2024-11-19-20:17:59.394071[INFO]:========== Server init ==========
+2024-11-19-20:17:59.394099[INFO]:Listen Mode: ET, OpenConn Mode: ET
+2024-11-19-20:17:59.394102[INFO]:srcDir: /home/yuzy/code/MyServer/resources/
+2024-11-19-20:17:59.394106[INFO]:SqlConnPool num: 10, ThreadPool num: 10
+2024-11-19-20:18:06.551153[INFO]:Client[16] is connected   ip:127.0.0.1   port:53252    TotalCount:0
+2024-11-19-20:18:06.551224[INFO]:Client[17] is connected   ip:127.0.0.1   port:53254    TotalCount:1
+2024-11-19-20:18:06.554018[DEBUG]:register user's sql is "insert into user(username,password) values('yuzy','666')"
+2024-11-19-20:18:06.554385[INFO]:username = "yuzy"   password = "666"   register successfully!
+2024-11-19-20:18:06.806258[INFO]:Client[18] is connected   ip:127.0.0.1   port:53256    TotalCount:2
+2024-11-19-20:18:06.883441[INFO]:Client[21] is connected   ip:127.0.0.1   port:53258    TotalCount:3
+2024-11-19-20:18:06.883662[INFO]:Client[23] is connected   ip:127.0.0.1   port:53260    TotalCount:4
+2024-11-19-20:18:06.884176[INFO]:Client[24] is connected   ip:127.0.0.1   port:53262    TotalCount:5
